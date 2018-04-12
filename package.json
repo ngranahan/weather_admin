@@ -1,0 +1,22 @@
+{
+  "name": "weather_admin",
+  "version": "1.0.0",
+  "description": "A command line application for weather queries",
+  "main": "user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bunsushi/weather_admin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bunsushi/weather_admin/issues"
+  },
+  "homepage": "https://github.com/bunsushi/weather_admin#readme",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
